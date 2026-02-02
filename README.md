@@ -1,14 +1,14 @@
 # PROYECTO-II-PROGRAMACION-ESTRUCTURADA-Y-MODULAR-VIDEOJUEGOS
 
-Repartición de las funciones del programa:
--------------
-Fran Tebar->
+## Repartición de las funciones del programa:
+
+### Fran Tebar->
   LeerDatosVentas
   CalcularVentasTotales
   TopVentasPorRegion
   AnalizarPorGenero
 ---------------
-Adrián Moral->
+### Adrián Moral->
   CalcularVentasPromedioPorPlataforma
   FiltrarPorRangoAnios
   GenerarReporteCompleto
