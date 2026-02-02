@@ -2,13 +2,13 @@
 
 ## Repartición de las funciones del programa:
 
-### Fran Tebar->
+### Fran Tebar
   LeerDatosVentas
   CalcularVentasTotales
   TopVentasPorRegion
   AnalizarPorGenero
 ---------------
-### Adrián Moral->
+### Adrián Moral
   CalcularVentasPromedioPorPlataforma
   FiltrarPorRangoAnios
   GenerarReporteCompleto
